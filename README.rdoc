@@ -27,16 +27,3 @@ Things you may want to cover:
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
 
-
-- [ ] Create a new Issue with these tasks!
-- [ ] Create a Rails project & initialize it with git
-- [ ] Commit the newly committed, unedited Rails project to your `master` branch
-- [ ] Create a branch on `Moosic-5.1` called `dev`
-- [ ] In Github, open a PR from `dev` into `master`
-- [ ] Model all the things!
-  - [ ] Checkpoint: Sketched out models & their associations
-  - [ ] Checkpoint: Created Rails models for each class
-  - [ ] Checkpoint: Set up relationships for models
-  - [ ] Checkpoint: Test relationships
-  - [ ] HARD MODE: Create a web interface to manage all this
-  - [ ] Complete: pushed all relevant code
